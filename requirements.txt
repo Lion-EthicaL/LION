@@ -1,0 +1,2 @@
+# Standard libraries used: socket, sys, os, conccurrent.futures
+setuptools
